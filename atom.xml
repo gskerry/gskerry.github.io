@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[gskerry | blog]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-01-16T01:42:46.702Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[gskerry]]></name>
+    
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Why Code?]]></title>
+    <link href="http://yoursite.com/2014/12/16/Why-Code/"/>
+    <id>http://yoursite.com/2014/12/16/Why-Code/</id>
+    <published>2014-12-16T02:18:04.000Z</published>
+    <updated>2015-01-16T01:11:47.000Z</updated>
+    <content type="html"><![CDATA[<p>To create and learn.<br>Always.<br>All the time. </p>
+<blockquote>
+
+<p>Without tradition, art is a flock of sheep without a shepherd.<br>Without innovation, it is a corpse.</p>
+<footer><strong>Churchill</strong></footer></blockquote>
+
+
+<p>Will revisit.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>To create and learn.<br>Always.<br>All the time. </p>
+<blockquote>
+
+<p>Without tradition, art is a flock of sheep without a shepherd.<br>]]>
+    </summary>
+    
+      <category term="philosophy" scheme="http://yoursite.com/tags/philosophy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello All]]></title>
+    <link href="http://yoursite.com/2014/12/15/Hello-All/"/>
+    <id>http://yoursite.com/2014/12/15/Hello-All/</id>
+    <published>2014-12-15T02:26:28.000Z</published>
+    <updated>2015-01-16T01:11:47.000Z</updated>
+    <content type="html"><![CDATA[<p>Hello World was taken, so… </p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">function</span> <span class="title">Greetworld</span><span class="params">(planet, beings)</span></span>{</div><div class="line"></div><div class="line">    <span class="keyword">this</span>.planet = planet,</div><div class="line">    <span class="keyword">this</span>.beings = beings,</div><div class="line">	greeting =  <span class="string">"Hello all you "</span>+<span class="keyword">this</span>.beings+<span class="string">" of "</span>+<span class="keyword">this</span>.planet+<span class="string">"!"</span></div><div class="line">	<span class="keyword">this</span>.greet = <span class="function"><span class="keyword">function</span> <span class="params">()</span></span>{</div><div class="line">		<span class="keyword">return</span> greeting;</div><div class="line">	}</div><div class="line"></div><div class="line">}</div><div class="line"></div><div class="line"><span class="keyword">var</span> Earth = <span class="keyword">new</span> Greetworld(<span class="string">"Earth"</span>, <span class="string">"Humans"</span>)</div><div class="line">Earth.greet()</div></pre></td></tr></table></figure>
+
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Hello World was taken, so… </p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div cla]]>
+    </summary>
+    
+      <category term="js" scheme="http://yoursite.com/tags/js/"/>
+    
+      <category term="code" scheme="http://yoursite.com/tags/code/"/>
+    
+  </entry>
+  
+</feed>
