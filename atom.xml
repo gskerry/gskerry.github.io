@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-01-16T01:42:46.702Z</updated>
+  <updated>2015-01-16T03:57:08.402Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,23 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[js is king]]></title>
+    <link href="http://yoursite.com/2015/01/16/js-is-king/"/>
+    <id>http://yoursite.com/2015/01/16/js-is-king/</id>
+    <published>2015-01-16T03:53:09.000Z</published>
+    <updated>2015-01-16T03:56:22.000Z</updated>
+    <content type="html"><![CDATA[<p>js is top language on gitHub and SO in 2014, according to RedMonk rankings.</p>
+<p><a href="http://www.infoworld.com/article/2870801/application-development/javascript-java-lead-the-way-in-redmonk-language-rankings.html" target="_blank" rel="external">InfoWorld</a>&lt;</p>
+<p>Cool beans.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>js is top language on gitHub and SO in 2014, according to RedMonk rankings.</p>
+<p><a href="http://www.infoworld.com/article/2870801/appl]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Why Code?]]></title>
